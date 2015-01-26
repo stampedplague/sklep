@@ -3,17 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package produkty;
+package produkty_chipsy;
 
 /**
  *
  * @author Senyama
  */
-public class KitKat {
+public class Crunchips {
     
-    
-    public KitKat()
-    {
-        System.out.println("[produkty.KitKat] Utworzono obiekt klasy KitKat");
+            public Crunchips() {
+        System.out.println("[produkty_chipsy.Crunchips] Utworzono obiekt klasy Crunchips");
     }
 }

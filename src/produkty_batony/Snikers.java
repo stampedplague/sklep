@@ -3,17 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package produkty;
+package produkty_batony;
 
 /**
  *
  * @author Senyama
  */
-public class Drzwi {
-
+public class Snikers {
     
-    public Drzwi()
-    {
-        System.out.println("[produkty.Drzwi] Utworzono obiekt klasy Drzwi");
+    public Snikers() {
+        System.out.println("[produkty.Snikers] Utworzono obiekt klasy Snikers");
     }
+           
 }

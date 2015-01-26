@@ -3,16 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package produkty;
+package produkty_batony;
 
 /**
  *
  * @author Senyama
  */
-public class Mars {
-    
-    public Mars()
-    {
-        System.out.println("[produkty.Mars] Utworzono obiekt klasy Mars");
+public class Twix {
+    public Twix() {
+            System.out.println("[produkty.Twix] Utworzono obiekt klasy Twix");
     }
 }
